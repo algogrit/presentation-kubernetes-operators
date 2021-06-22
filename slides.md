@@ -12,32 +12,17 @@ Gaurav Agarwal
 
 ---
 
-# Agenda
+## Agenda
+
+- Need for K8s Operators
+- Understanding the pieces of an Operator
+  - Operator vs Controller
+- Introduction to the Operator Framework
+  - Ansible vs Go
+- Using `kubebuilder`
 
 ---
 
-class: center, middle
-
-![Me](assets/images/me.png)
-
-Software Engineer & Product Developer
-
-Director of Engineering & Founder @ https://codermana.com
-
-ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
-
----
-class: center, middle
-
-```golang
-package main
-
-import "fmt"
-
-func main() {
-  fmt.Println("Hello, world!")
-}
-```
 
 ---
 
